@@ -1,5 +1,3 @@
-# Field Papers 🥾📋
-
 [Field Papers](https://fieldpapers.org) is a pen-and-paper workflow for mapping with [OpenStreetMap](https://openstreetmap.org/about). It works like this:
 
 1. 🖨️ Create and print an atlas for your area of interest
@@ -17,11 +15,11 @@ This workflow benefits a variety of use-cases:
 
 Intrigued? Go ahead and [create an atlas](https://fieldpapers.org/compose), or check out the latest [atlases](https://fieldpapers.org/atlases) and [snapshots](https://fieldpapers.org/snapshots) from around the globe. More info is available on our [about page](https://fieldpapers.org/about) and [OSM Wiki page](https://wiki.openstreetmap.org/wiki/Field_Papers).
 
-## Connect 🤝
+## Connect
 
 We hang out in the `#fieldpapers` channel on [OSM US Slack](https://osmus.slack.com) (you can [invite yourself](https://slack.openstreetmap.us)). Say hi! You can also email us at help@fieldpapers.org, or tweet at [@fieldpapers](https://twitter.com/fieldpapers).
 
-## Contributing 🙋
+## Contributing
 
 Field Papers is an active open source project maintained by [OpenStreetMap US](https://openstreetmap.us). We welcome volunteer contributions! Note that all activity is subject to our [Code of Conduct](https://wiki.openstreetmap.org/wiki/Foundation/Local_Chapters/United_States/Code_of_Conduct_Committee/OSM_US_Code_of_Conduct). Please take a minute to read it, and remember to be nice.
 
@@ -46,6 +44,6 @@ Field Papers lives across a number of repositories, each of which has its own de
 
 We welcome pull requests that are consistent with the development goals of the project. Open an issue first if you're not sure. If you're new to open source development, you can learn how to make a pull request [here](https://docs.github.com/en/pull-requests).
 
-## Downstream usage 🚣
+## Downstream usage
 
 Field Papers is intended to be easily deployable to your own environment, with and without forking. Let us know if you encounter any downstream issues, or if you need help with your use-case.
