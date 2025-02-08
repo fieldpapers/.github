@@ -39,7 +39,6 @@ Field Papers lives across a number of repositories, each of which has its own de
 * [fp-web](https://github.com/fieldpapers/fp-web) - the website (Ruby on Rails)
 * [fp-tasks](https://github.com/fieldpapers/fp-tasks) - the task server, which handles atlas and snapshot generation (Python, NodeJS)
 * [fp-tiler](https://github.com/fieldpapers/fp-tiler) - the tile server (NodeJS)
-* [tilelive-fieldpapers](https://github.com/fieldpapers/tilelive-fieldpapers) - the tilelive module that drives the tile server (NodeJS)
 * [josm-fieldpapers](https://github.com/fieldpapers/josm-fieldpapers) - the [JOSM](https://josm.openstreetmap.de) plugin (Java)
 
 We welcome pull requests that are consistent with the development goals of the project. Open an issue first if you're not sure. If you're new to open source development, you can learn how to make a pull request [here](https://docs.github.com/en/pull-requests).
